@@ -13,6 +13,12 @@ The methods that handle mouse input are found [here](/source_code/InputSystem.cp
 The following project had been completed in the span of a weekend. It consists of everything from researching graphics rendering methods, to learning the necessary linear algebra techniques, to finally implementing a working 3D model of a shape whose geometry is defined by a CSV file.  
 
 
+If I had more time to work on this project, I would add the following features:
+- Fix the shading/rendering artifacts.
+- Add a camera to so that I can use normals to calculate how much light the surface most visible to the viewer receives.
+- More pronounced edges and vertices.
+- A small 3D compass in the bottom corner to help orient the viewer (as found in any 3D CAD software).
+
 
 ## Example of code running
 
