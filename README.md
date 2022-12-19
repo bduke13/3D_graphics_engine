@@ -28,6 +28,7 @@ Here are two screenshots displaying both modes of operation in the software. The
 > Enter full filepath of the object file
 6. Paste in the **FULL FILEPATH** (starting from C:)
 7. The code should run!
+8. You can click and drag on the new window to move the orientation of the object
 
 *NOTE: The extension on the files are .txt"*
 
