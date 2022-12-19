@@ -26,3 +26,7 @@ Here are two screenshots displaying both modes of operation in the software. The
 > Enter full filepath of the object file
 6. Paste in the **FULL FILEPATH** (starting from C:)
 7. The code should run!
+
+*NOTE: The extension on the files are .txt"*
+*NOTE 2: The example files are located [here](/executables/example_object_files)
+
