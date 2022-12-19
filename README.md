@@ -2,9 +2,14 @@
 
 ## Summary
 
+The technologies used for this project include: Visual Studio 2019, C++, and the DirectX11 API for rendering the model in a desktop application for Windows. Although I leveraged the internet for guidance on DirectX11 and creating my own graphics engine, I personally developed features such as mouse input (drag to rotate the object) and file input (reading from a CSV file) to shape the object geometry. Additionally, I created a method to display the object in either solid or wireframe form, as well as various other features specific to this project. I have left comments throughout the source code to explain the methods I wrote.
 
+Most of the important features I worked on are located in the [Graphics Engine](/souce_code/GraphicsEngine.cpp)
 
-You can follow this link to view the implementation for [App Window Code](/source_code/AppWindow.cpp)
+The class to load in the object geometry is located [here](/source_code/AppWindow.cpp) as the objectInfo class.
+
+The following project had been completed in the span of a weekend. It consists of everything from researching graphics rendering methods, to learning the necessary linear algebra techniques, to finally implementing a working 3D model of a shape whose geometry is defined by a CSV file.  
+
 
 
 ## Example of code running
@@ -28,7 +33,7 @@ Here are two screenshots displaying both modes of operation in the software. The
 > Enter full filepath of the object file
 6. Paste in the **FULL FILEPATH** (starting from C:)
 7. The code should run!
-8. You can click and drag on the new window to move the orientation of the object
+8. You can click and drag on the new window to change the orientation of the object
 
 *NOTE: The extension on the files are .txt"*
 
