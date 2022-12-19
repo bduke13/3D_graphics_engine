@@ -14,7 +14,7 @@ The methods that handle mouse input are found [here](/source_code/InputSystem.cp
 
 If I had more time to work on this project, I would add the following features:
 - Fix the shading/rendering artifacts.
-- Add a camera to so that I can use normals to calculate how much light the surface most visible to the viewer receives.
+- Add a camera so that I can use normals to calculate how much light the surface most visible to the viewer receives.
 - More pronounced edges and vertices.
 - A small 3D compass in the bottom corner to help orient the viewer (as found in any 3D CAD software).
 
