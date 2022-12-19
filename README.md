@@ -2,6 +2,8 @@
 
 ## Summary
 
+
+
 You can follow this link to view the implementation for [App Window Code](/source_code/AppWindow.cpp)
 
 
@@ -29,5 +31,5 @@ Here are two screenshots displaying both modes of operation in the software. The
 
 *NOTE: The extension on the files are .txt"*
 
-*NOTE 2: The example files are located [here](/executable/example_object_files)*
+*NOTE 2: The example object files to load in are located [here](/executable/example_object_files)*
 
