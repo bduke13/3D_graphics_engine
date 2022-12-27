@@ -1,4 +1,7 @@
 # neocis_assignment
+## NOTE
+
+You MUST run the executable on a Windows 10 device or you will get runtime errors.
 
 ## Summary
 
