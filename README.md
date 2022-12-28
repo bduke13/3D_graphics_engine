@@ -1,4 +1,4 @@
-# neocis_assignment
+# Interactive 3D model
 ## NOTE
 
 You MUST run the executable on a Windows 10 device or you will get runtime errors.
